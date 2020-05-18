@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="default_Items">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+    </string-array>
+    <string name="aceptar">Aceptar</string>
+    <string name="btn_disabled">Button disabled</string>
+    <string name="btn_primary">Button primary</string>
+    <string name="btn_primary_outline">Button outline</string>
+    <string name="btn_text">Button text</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="contrase_a">Contraseña</string>
+    <string name="default_prompt">Choose Item</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="edt_password">Contraseña</string>
+    <string name="loading">Cargando…</string>
+    <string name="save">Guardar</string>
+    <string name="search">Buscar</string>
+    <string name="wait_moment">Por favor, espere un momento</string>
+</resources>
